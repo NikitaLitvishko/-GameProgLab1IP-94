@@ -1,1 +1,1 @@
-# -GameProgLab1IP-94
+# GameProgLab1IP-94
